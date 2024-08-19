@@ -1,18 +1,20 @@
 # Aleksandra Gorokhova
 
-_Computer vision engineer and in Russia 🇷🇺_ <br>
+_Computer vision engineer based_ <br>
 
 [Email](a.s.gorokhova@yandex.ru) / [Website](https://workwithcarolyn.com/) / [GitHub](https://github.com/sadevans/) / [Telegram](https://t.me/sadevans)
 
 ## 👩‍💻 Work Experience
 
 **Data Scientist** @ Sberbank Cyber Security. Anti-Fraud Department. Management of AI Modeling and Development _(May 2024 - Present)_ <br>
-Skills used: `pyspark` `pandas` `scikit-learn` `hive` `python` `sql` `catboost` `lightgbm`
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+_**Skills used:**_ `pyspark` `pandas` `scikit-learn` `hive` `python` `sql` `catboost` `lightgbm`
+
+Development of a fraud detection model for transfers to individuals entity.
+  - building data marts,
+  - writing optimized queries, 
+  - creating new features, 
+  - development and training of new models, 
+  - additional retraining.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
