@@ -1,6 +1,6 @@
 # Aleksandra Gorokhova
 
-_Computer vision engineer based_ <br>
+_Computer vision engineer_ <br>
 
 [Email](a.s.gorokhova@yandex.ru) / [GitHub](https://github.com/sadevans/) / [Telegram](https://t.me/sadevans)
 
@@ -39,7 +39,19 @@ Inverse lithography project
 - Have written a lot of user interfaces for developed solutions.
 <br><br>
 
-## 🎤 Public Speaking
+## 👩‍🎓 Education
+
+**[ITMO](https://ai.itmo.ru/)** (2024 - 2026) <br>
+_Artifiacial Intelligence, Computer Science and Computer Engineering, Master's degree_ <br>
+
+Student of AI Talent Hub.
+<br><br>
+
+**[BMSTU](https://bmstu.ru/chair/sistemy-avtomatizirovannogo-proektirovania)** (2020 - 2024) <br>
+_Robotics and Complex Automation, Computer Science and Computer Engineering, Bachelor's degree_ <br>
+GPA: 4.78/5
+<br><br>
+
     
 ### Recent Appearances
 
@@ -71,20 +83,6 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 💬 Languages
 
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
+🇷🇺 **Russian**: native
+🇺🇸 **English**: B2+ (Upper-Intermediate) <br>
 <br><br>
-
-## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
