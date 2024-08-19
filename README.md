@@ -57,11 +57,11 @@ GPA: 4.78/5
 Generation of real time video subtitles based on the movement of the speaking person's lips.<br>
 _**Technologies used:**_ `python` `pytorch` `pytorch-lightning` `opencv` `pillow` `CNN` `Transformers` `django` `vannila js` `docker`<br>
 _**Results:**_
-- - Collected and preprocessed data for training
-- - Developed Model Architecture using Conv3D + modified EfficientNetV2 + Transformer Encoder + TCN using description in the article
-- Made experiments with EfficientNetV2 parameters, sizes and with different languages (russian and english)
-- Made experiments with classification of visemes (visual representation of phoneme).
-- Developed WEB App for demo using Django and Vanilla JS
+  - Collected and preprocessed data for training
+  - Developed Model Architecture using Conv3D + modified EfficientNetV2 + Transformer Encoder + TCN using description in the article
+  - Made experiments with EfficientNetV2 parameters, sizes and with different languages (russian and english)
+  - Made experiments with classification of visemes (visual representation of phoneme).
+  - Developed WEB App for demo using Django and Vanilla JS
 
 The current version of the project is a classification of spoken words. I am currently working on predicting individual visemes.
 <br>
