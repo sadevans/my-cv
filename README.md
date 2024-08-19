@@ -42,7 +42,7 @@ Inverse lithography project
 ## 👩‍🎓 Education
 
 **[ITMO](https://ai.itmo.ru/)** (2024 - 2026) <br>
-_Artifiacial Intelligence, Computer Science and Computer Engineering, Master's degree_ <br>
+_Artificial Intelligence, Computer Science and Computer Engineering, Master's degree_ <br>
 
 Student of AI Talent Hub.
 <br><br>
@@ -53,10 +53,21 @@ GPA: 4.78/5
 <br><br>
 
     
-### Recent Appearances
+## 🧬 Science expirience
 
-- **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
-<br>[Humanizing Your Documentation](https://www.youtube.com/watch?v=yE7eOoXTZtM)<br>
+- **Final year Bachelor's thesis** _(2024)_
+<br>
+Generation of real time video subtitles based on the movement of the speaking person's lips.<br>
+_Technologies used:_ `python` `pytorch` `pytorch-lightning` `opencv` `pillow` `CNN` `Transformers` `django` `vannila js` `docker`<br>
+_**Results:**_
+- Collected and preprocessed data for training
+- Developed Model Architecture using Conv3D + modified EfficientNetV2 + Transformer Encoder + TCN using description in the article
+- Made experiments with EfficientNetV2 parameters, sizes and with different languages (russian and english)
+- Made experiments with classification of visemes (visual representation of phoneme).
+- Developed WEB App for demo using Django and Vanilla JS
+
+The current version of the project is a classification of words. I am currently working on predicting individual visemes.
+<br>
 
 - **single-threaded Podcast** _(released on Mar 31, 2021)_
 <br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
