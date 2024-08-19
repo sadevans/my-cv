@@ -54,9 +54,7 @@ GPA: 4.78/5
 
     
 ## 🧬 Science expirience
-
-- **Final year Bachelor's thesis** _(2024)_
-<br>
+**Final year Bachelor's thesis** _(2024)_<br>
 Generation of real time video subtitles based on the movement of the speaking person's lips.<br>
 _Technologies used:_ `python` `pytorch` `pytorch-lightning` `opencv` `pillow` `CNN` `Transformers` `django` `vannila js` `docker`<br>
 _**Results:**_
