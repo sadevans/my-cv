@@ -45,7 +45,7 @@ Inverse lithography project
 _Artificial Intelligence, Computer Science and Computer Engineering, Master's degree_ <br>
 
 Student of AI Talent Hub.
-<br>
+<br><br>
 **[BMSTU](https://bmstu.ru/chair/sistemy-avtomatizirovannogo-proektirovania)** (2020 - 2024) <br>
 _Robotics and Complex Automation, Computer Science and Computer Engineering, Bachelor's degree_ <br>
 GPA: 4.78/5
