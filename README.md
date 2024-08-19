@@ -75,10 +75,10 @@ _**Results:**_
   
 ## 🏆 Accomplishments
 
-**Won 2nd Place** @ [Digital Breakthrough. Season: Artificial Intelligence](https://disk.yandex.ru/i/bfoi72iJs-JOTQ) _(May 2023)_ <br>
+**Won 2nd Place** @ [Digital Breakthrough. Season: Artificial Intelligence](https://disk.yandex.ru/i/bfoi72iJs-JOTQ)  _(May 2023)_ <br>
 Implementation of a model for predicting the addition of a person to friends. 
 
-**[FCE](https://disk.yandex.ru/i/pQfmCnvEJhmcaA)**_(2019)_ <br>
+**[FCE](https://disk.yandex.ru/i/pQfmCnvEJhmcaA)**  _(2019)_ <br>
 English Upper-Intermediate.
 
 ## 💬 Languages
