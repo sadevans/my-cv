@@ -18,7 +18,7 @@ _Computer vision engineer_ <br>
 ## 👩‍💻 Work Experience
 
 **Data Scientist** @ Sberbank Cyber Security. Anti-Fraud Department. Management of AI Modeling and Development _(May 2024 - Present)_ <br>
-_**Skills used:**_ `pyspark` `pandas` `scikit-learn` `hive` `python` `sql` `catboost` `lightgbm`
+_**Technologies used:**_ `pyspark` `pandas` `scikit-learn` `hive` `python` `sql` `catboost` `lightgbm`
 
 Development of a fraud detection model for transfers to individuals entity.
   - Building data marts.
@@ -29,7 +29,7 @@ Development of a fraud detection model for transfers to individuals entity.
 <br><br>
 
 **Computer Vision Researcher/Engineer** @ [Sberbank Robotics Center](https://sberlabs.com/laboratories/tsentr-robototekhniki) _(May 2023 - March 2024)_ <br>
-_**Skills used:**_ `python` `pytorch` `opencv` `scikit-image` `Pillow` `Docker` `CNN`
+_**Techologies used:**_ `python` `pytorch` `opencv` `scikit-image` `Pillow` `Docker` `CNN`
 
 Inverse lithography project
 - Development of a full-fledged pipeline for generating synthetic data that repeats the original images from an electron microscope.
@@ -56,7 +56,7 @@ GPA: 4.78/5
 ## 🧬 Science expirience
 **Final year Bachelor's thesis** _(2024)_<br>
 Generation of real time video subtitles based on the movement of the speaking person's lips.<br>
-_Technologies used:_ `python` `pytorch` `pytorch-lightning` `opencv` `pillow` `CNN` `Transformers` `django` `vannila js` `docker`<br>
+_**Technologies used:**_ `python` `pytorch` `pytorch-lightning` `opencv` `pillow` `CNN` `Transformers` `django` `vannila js` `docker`<br>
 _**Results:**_
 - Collected and preprocessed data for training
 - Developed Model Architecture using Conv3D + modified EfficientNetV2 + Transformer Encoder + TCN using description in the article
@@ -64,7 +64,7 @@ _**Results:**_
 - Made experiments with classification of visemes (visual representation of phoneme).
 - Developed WEB App for demo using Django and Vanilla JS
 
-The current version of the project is a classification of words. I am currently working on predicting individual visemes.
+The current version of the project is a classification of spoken words. I am currently working on predicting individual visemes.
 <br>
 
 - **single-threaded Podcast** _(released on Mar 31, 2021)_
