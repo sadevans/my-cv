@@ -4,6 +4,17 @@ _Computer vision engineer based_ <br>
 
 [Email](a.s.gorokhova@yandex.ru) / [Website](https://workwithcarolyn.com/) / [GitHub](https://github.com/sadevans/) / [Telegram](https://t.me/sadevans)
 
+## 💻 Techical skills
+`Python` `C++` `Vanilla JS`
+
+`PyTorch` `OpenCV` `Pillow` `Transformers` `CNN` `HuggingFace` `pytorch-lightning` `JAX` `numpy` `NLP` `Classic ML`
+
+`scikit-learn` `pandas` `catboost` `lightgbm` `hive` `pyspark` `PostrgreSQL` `MySQL` `MSSQL`
+
+`Flask` `Django`
+
+`linux` `git` `docker`
+
 ## 👩‍💻 Work Experience
 
 **Data Scientist** @ Sberbank Cyber Security. Anti-Fraud Department. Management of AI Modeling and Development _(May 2024 - Present)_ <br>
@@ -17,7 +28,7 @@ Development of a fraud detection model for transfers to individuals entity.
   - Additional retraining.
 <br><br>
 
-**Computer Vision Researcher/Engineer** @ [Sberbank Robotocs Center](https://sberlabs.com/laboratories/tsentr-robototekhniki) _(May 2023 - March 2024)_ <br>
+**Computer Vision Researcher/Engineer** @ [Sberbank Robotics Center](https://sberlabs.com/laboratories/tsentr-robototekhniki) _(May 2023 - March 2024)_ <br>
 _**Skills used:**_ `python` `pytorch` `opencv` `scikit-image` `Pillow` `Docker` `CNN`
 
 Inverse lithography project
