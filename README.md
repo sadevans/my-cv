@@ -2,7 +2,7 @@
 
 _Computer vision engineer based_ <br>
 
-[Email](a.s.gorokhova@yandex.ru) / [Website](https://workwithcarolyn.com/) / [GitHub](https://github.com/sadevans/) / [Telegram](https://t.me/sadevans)
+[Email](a.s.gorokhova@yandex.ru) / [GitHub](https://github.com/sadevans/) / [Telegram](https://t.me/sadevans)
 
 ## 💻 Techical skills
 `Python` `C++` `Vanilla JS`
