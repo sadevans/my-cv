@@ -68,19 +68,15 @@ _**Results:**_
 
 - **Scientific article "Implementation of verification methods for elements of discrete event models for robotics tasks"** _(2023)_<br>
 <br>
+  
+  _**Publisher:**_  Integrated automation of design and production, BMSTU Press <br>
+  
+  Modeling of processes in a discrete event system for managing a group of mobile robots. Improving the quality of the system by verifying the model.
 
-_**Publisher:**_  Integrated automation of design and production, BMSTU Press <br>
+- **Report "Implementation of verification methods for elements of discrete event models for robotics tasks"** _(2023)_<br>
+  _**Publisher:**_ Integrated automation of design and production 2023 KAPPA(M)-2023
+  
 
-Modeling of processes in a discrete event system for managing a group of mobile robots. Improving the quality of the system by verifying the model.
-
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
   
 ## 🏆 Accomplishments
 
