@@ -75,18 +75,11 @@ _**Results:**_
   
 ## 🏆 Accomplishments
 
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
+**Won 2nd Place** @ [Digital Breakthrough. Season: Artificial Intelligence](https://disk.yandex.ru/i/bfoi72iJs-JOTQ) _(May 2023)_ <br>
+Implementation of a model for predicting the addition of a person to friends. 
 
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
+**[FCE](https://disk.yandex.ru/i/pQfmCnvEJhmcaA)**_(2019)_ <br>
+English Upper-Intermediate.
 
 ## 💬 Languages
 
