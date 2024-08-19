@@ -5,7 +5,7 @@ _Computer vision engineer_ <br>
 [Email](a.s.gorokhova@yandex.ru) / [GitHub](https://github.com/sadevans/) / [Telegram](https://t.me/sadevans)
 
 ## 💻 Techical skills
-``Python`` `C++` `Vanilla JS`
+`Python` `C++` `Vanilla JS`
 
 `PyTorch` `OpenCV` `Pillow` `Transformers` `CNN` `HuggingFace` `pytorch-lightning` `JAX` `numpy` `NLP` `Classic ML`
 
@@ -65,6 +65,12 @@ _**Results:**_
 
 The current version of the project is a classification of spoken words. I am currently working on predicting individual visemes.
 <br>
+
+**Scientific article "Implementation of verification methods for elements of discrete event models for robotics tasks"** _(2023)_<br>
+<br>
+**_Publisher:_** Integrated automation of design and production, BMSTU Press <br>
+Modeling of processes in a discrete event system for managing a group of mobile robots. Improving the quality of the system by verifying the model.
+
 
 - **single-threaded Podcast** _(released on Mar 31, 2021)_
 <br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
