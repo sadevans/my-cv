@@ -63,12 +63,14 @@ _**Results:**_
   - Made experiments with classification of visemes (visual representation of phoneme).
   - Developed WEB App for demo using Django and Vanilla JS
 
-The current version of the project is a classification of spoken words. I am currently working on predicting individual visemes.
+  The current version of the project is a classification of spoken words. I am currently working on predicting individual visemes.
 <br>
 
 - **Scientific article "Implementation of verification methods for elements of discrete event models for robotics tasks"** _(2023)_<br>
 <br>
-_**Publisher:**_ Integrated automation of design and production, BMSTU Press <br>
+
+_**Publisher:**_  Integrated automation of design and production, BMSTU Press <br>
+
 Modeling of processes in a discrete event system for managing a group of mobile robots. Improving the quality of the system by verifying the model.
 
 
