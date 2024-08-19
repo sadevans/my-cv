@@ -92,6 +92,6 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 💬 Languages
 
-🇷🇺 **Russian**: native
+🇷🇺 **Russian**: native <br>
 🇺🇸 **English**: B2+ (Upper-Intermediate) <br>
 <br><br>
