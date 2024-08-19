@@ -5,7 +5,7 @@ _Computer vision engineer_ <br>
 [Email](a.s.gorokhova@yandex.ru) / [GitHub](https://github.com/sadevans/) / [Telegram](https://t.me/sadevans)
 
 ## 💻 Techical skills
-`Python` `C++` `Vanilla JS`
+``Python`` `C++` `Vanilla JS`
 
 `PyTorch` `OpenCV` `Pillow` `Transformers` `CNN` `HuggingFace` `pytorch-lightning` `JAX` `numpy` `NLP` `Classic ML`
 
