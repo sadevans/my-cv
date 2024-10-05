@@ -5,20 +5,22 @@ _Computer vision engineer_ <br>
 [Email](a.s.gorokhova@yandex.ru) / [GitHub](https://github.com/sadevans/) / [Telegram](https://t.me/sadevans)
 
 ## 💻 Techical skills
-`Python` `C++` `Vanilla JS`
+`Python`, `C++`, `Vanilla JS`
 
-`PyTorch` `OpenCV` `Pillow` `Transformers` `CNN` `HuggingFace` `pytorch-lightning` `JAX` `numpy` `NLP` `Classic ML`
+`PyTorch`, `OpenCV`, `Pillow`, `Transformers`, `CNN`, `HuggingFace`, `pytorch-lightning`, `JAX`, `numpy`, `NLP`, `Classic ML`
 
-`scikit-learn` `pandas` `catboost` `lightgbm` `hive` `pyspark` `PostrgreSQL` `MySQL` `MSSQL`
+`scikit-learn`, `pandas`, `catboost`, `lightgbm`, `hive`, `pyspark`, `PostrgreSQL`, `MySQL`, `MSSQL`
 
-`Flask` `Django`
+`Flask`, `Django`
 
-`linux` `git` `docker`
+`linux`, `git`, `docker`
 
 ## 👩‍💻 Work Experience
 
 **Junior CV Reseacher** @ VisionLabs _(Sept 2024 - Present)_ <br>
-_**Technologies used:**_ `python`, `pytorch`, `pandas`, `scikit-learn`, `opencv`, `torchvision`, `transformers`, `PIL`
+_**Technologies used:**_ `python`, `pytorch`, `pandas`, `scikit-learn`, `opencv`, `torchvision`, `transformers`, `PIL` <br>
+
+Development of pipeline of determination of vehicle orientation. Acceleration of algorithms.
 
 <br><br>
 
