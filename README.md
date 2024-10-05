@@ -17,6 +17,11 @@ _Computer vision engineer_ <br>
 
 ## 👩‍💻 Work Experience
 
+**Junior CV Reseacher** @ VisionLabs _(Sept 2024 - Present)_ <br>
+_**Technologies used:**_ `python`, `pytorch`, `pandas`, `scikit-learn`, `opencv`, `torchvision`, `transformers`, `PIL`
+
+<br><br>
+
 **Data Scientist** @ Sberbank Cyber Security. Anti-Fraud Department. Management of AI Modeling and Development _(May 2024 - Present)_ <br>
 _**Technologies used:**_ `pyspark` `pandas` `scikit-learn` `hive` `python` `sql` `catboost` `lightgbm`
 
