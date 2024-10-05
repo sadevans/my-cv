@@ -5,14 +5,10 @@ _Computer vision engineer_ <br>
 [Email](a.s.gorokhova@yandex.ru) / [GitHub](https://github.com/sadevans/) / [Telegram](https://t.me/sadevans)
 
 ## 💻 Techical skills
-`Python`, `C++`, `Vanilla JS`
-
-`PyTorch`, `OpenCV`, `Pillow`, `Transformers`, `CNN`, `HuggingFace`, `pytorch-lightning`, `JAX`, `numpy`, `NLP`, `Classic ML`
-
-`scikit-learn`, `pandas`, `catboost`, `lightgbm`, `hive`, `pyspark`, `PostrgreSQL`, `MySQL`, `MSSQL`
-
-`Flask`, `Django`
-
+`Python`, `C++`, `Vanilla JS`<br>
+`PyTorch`, `OpenCV`, `Pillow`, `Transformers`, `CNN`, `HuggingFace`, `pytorch-lightning`, `JAX`, `numpy`, `NLP`, `Classic ML`<br>
+`scikit-learn`, `pandas`, `catboost`, `lightgbm`, `hive`, `pyspark`, `PostrgreSQL`, `MySQL`, `MSSQL`<br>
+`Flask`, `Django`<br>
 `linux`, `git`, `docker`
 
 ## 👩‍💻 Work Experience
