@@ -19,9 +19,7 @@ _Computer vision engineer_ <br>
 
 **Junior CV Reseacher** @ VisionLabs _(Sept 2024 - Present)_ <br>
 _**Technologies used:**_ `python`, `pytorch`, `pandas`, `scikit-learn`, `opencv`, `torchvision`, `transformers`, `PIL` <br>
-
 Development of pipeline of determination of vehicle orientation. Acceleration of algorithms.
-
 <br><br>
 
 **Data Scientist** @ Sberbank Cyber Security. Anti-Fraud Department. Management of AI Modeling and Development _(May 2024 - Present)_ <br>
