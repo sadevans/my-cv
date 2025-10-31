@@ -6,10 +6,9 @@ _Computer vision engineer and researcher_ <br>
 
 ## 💻 Techical skills
 `Python`,<br>
-`PyTorch`,<br>
-`JAX`, `JIT`,`nvidia-dali`,`kornia`<br>
-`CV`, `LLM`, `NLP`,<br>
-`pyspark`, `PostrgreSQL`, `MySQL`, `MSSQL`<br>
+`PyTorch`,`opencv`, `PIL`,`timm`,`transformers`<br>
+`JIT`, `nvidia-dali`, `kornia`<br>
+`classic CV`, `VLMs`, `LLM`<br>
 `Flask`, `Django`<br>
 `linux`, `git`, `docker`
 
@@ -21,7 +20,7 @@ Development of pipeline of determination of vehicle orientation. Acceleration of
 <br><br>
 
 **Data Scientist** @ Sberbank Cyber Security. Anti-Fraud Department. Management of AI Modeling and Development _(May 2024 - Present)_ <br>
-_**Work with:**_ `pyspark` `pandas` `scikit-learn` `hive` `python` `sql` `catboost` `lightgbm`
+_**Work with:**_ `pyspark`, `pandas`, `scikit-learn`, `hive`, `python`, `sql`, `catboost`, `lightgbm`
 
 Development of a fraud detection model for transfers to individuals entity.
   - Building data marts.
